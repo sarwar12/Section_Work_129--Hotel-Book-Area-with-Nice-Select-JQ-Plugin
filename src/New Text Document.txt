@@ -1,0 +1,16 @@
+### Separator png logo download
+
+### Nice Select JQuery plugin : (use form select tag style modify)
+	https://hernansartorio.com/jquery-nice-select/
+
+	(*) Include File:
+                 ============
+	    1)  jquery.min.js
+	    2)  jquery.nice-select.min.js
+	    3)  nice-select.css
+
+	(*) Active js:
+                  ==========
+	$(document).ready(function($){
+		$(".booking-area select").niceSelect();
+	});
